@@ -1,4 +1,4 @@
-<h1 align="center">Holaa, ¿Qué tal? 👋</h1>
+<h1 align="center">Hola, ¿Qué tal? 👋</h1>
 
 ###
 
