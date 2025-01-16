@@ -58,8 +58,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://linktr.ee/sebas_sanchez_bentolila" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
