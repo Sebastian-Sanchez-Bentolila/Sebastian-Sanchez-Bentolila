@@ -1,76 +1,110 @@
-<h1 align="center">Hola, ¿Qué tal? 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  Acerca de mi</h3>
-
-###
-
-<p align="left">🌟 Apasionado por los datos y la programación 🌟<br>Desde los 14 años descubrí el fascinante mundo de la programación 🧑‍💻 aprendiendo C en el colegio, y desde entonces no he parado de explorar y crecer en este campo. Soy 100% autodidacta 📚, siempre en busca de nuevos retos y conocimientos.<br><br>🎯 Actualmente estoy cursando el tercer año de la carrera de Ciencia de Datos en la Universidad Nacional de Guillermo Brown (UNAB) 📖.<br><br>👨‍💻 Experiencia y habilidades técnicas:<br><br>Programación: Python, R, JavaScript (básico).<br>Bases de datos: SQL.<br>Desarrollo web: HTML, CSS.<br>Presentaciones y análisis: Power BI (básico).<br>Herramientas: GitHub 🐈, Jupyter Notebook, Google Colab, Visual Studio Code.<br>Ofimática: Word, Excel, PowerPoint.<br>Idiomas: Inglés (básico).<br><br>🚀 Proyectos y aportes:<br>He desarrollado proyectos, aplicaciones y análisis de datos de manera independiente, muchos de los cuales puedes explorar en mi perfil de GitHub 🐾.<br><br>🚴‍♂️ Ciclo viajero y mecánico en formación:<br>Además de mi pasión por la tecnología, soy un ávido ciclo viajero, con recorridos que abarcan cientos de kilómetros a lo largo de Argentina 🇦🇷. Actualmente, me estoy formando en mecánica de bicicletas, combinando mi amor por las dos ruedas con habilidades prácticas 🔧.<br><br>💡 Siempre estoy abierto a nuevas oportunidades y colaboraciones en el mundo de la tecnología y los datos. ¡Conectemos y construyamos juntos! 💼</p>
-
-###
-
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=190&section=header&text=¡Hola,%20soy%20Sebastian!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Backend%20Developer%20%7C%20Ciclo%20viajero%20🚴&descAlignY=55&descSize=17" />
 </div>
 
-###
+<h3 align="left">👨‍💻 Acerca de mí</h3>
 
-<h3 align="left">Contacto</h3>
+🌟 Apasionado por los datos y la programación. Desde los 14 años descubrí el mundo del código aprendiendo C en el colegio, y desde entonces no paré de explorar y crecer en este campo. Soy 100% autodidacta 📚, siempre en busca de nuevos retos y conocimientos.
 
-###
+🎓 Actualmente curso el tercer año de la carrera de **Ciencia de Datos** en la Universidad Nacional de Guillermo Brown (UNAB).
+
+🚴 Cuando no estoy frente a la compu, soy un ávido ciclo viajero, con recorridos de cientos de kilómetros a lo largo de Argentina 🇦🇷, y me estoy formando en mecánica de bicicletas 🔧.
+
+💡 Siempre abierto a nuevas oportunidades y colaboraciones en tecnología y datos. ¡Conectemos y construyamos algo juntos!
+
+<br>
+
+<h3 align="left">🛠 Stack Tecnológico</h3>
+
+**Lenguajes y Datos**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
+</div>
+
+**Machine Learning & Deep Learning**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+</div>
+
+**Backend & DevOps**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+**Cloud**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean"/>
+</div>
+
+**Business Intelligence & Analytics**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white" alt="Looker Studio"/>
+</div>
+
+**Ofimática & Diseño**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</div>
+
+<br>
+
+<h3 align="left">🧰 Herramientas de trabajo</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github logo"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="jupyter logo"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="38" alt="google colab logo"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="38" alt="markdown logo"/>
+</div>
+
+<br>
+
+<h3 align="left">📌 Proyectos</h3>
+
+Podés ver mis proyectos y análisis de datos en mis repositorios de GitHub 🐾 — desde notebooks de ciencia de datos hasta APIs hechas con FastAPI.
+
+<br>
+
+<h3 align="left">📬 Contacto</h3>
 
 <div align="center">
   <a href="https://linktr.ee/sebas_sanchez_bentolila" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"/>
   </a>
   <a href="https://www.linkedin.com/in/sebastian-sanchez-bentolila/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <a href="mailto:sebastiansb3004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
   <a href="https://www.instagram.com/sebas_sanchez_bentolila" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
 </div>
 
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" />
+</div>
