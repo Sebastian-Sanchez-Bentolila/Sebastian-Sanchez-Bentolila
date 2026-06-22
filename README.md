@@ -23,6 +23,18 @@
 
 <br>
 
+<h3 align="left">🎓 Estudios</h3>
+
+**Licenciatura en Ciencia de Datos**
+
+*Universidad Nacional de Guillermo Brown (UNAB)*
+
+2023 – 2026 · En curso · 22 de 30 materias aprobadas
+
+<img src="https://img.shields.io/badge/UNAB-Lic._Ciencia_de_Datos-1B4332?style=flat-square&logoColor=white" alt="UNAB"/>
+
+<br>
+
 <h3 align="left">🛠 Stack Tecnológico</h3>
 
 **Lenguajes y Datos**
@@ -112,9 +124,13 @@
 
 <h3 align="left">💼 Experiencia</h3>
 
-**Ayudante de Cátedra** — *Recolección de Datos y Análisis Primario de la Información*
-📍 UNAB · Universidad Nacional de Guillermo Brown
-🗓️ Marzo 2025 – Junio 2025 · Ad honorem / Voluntariado académico
+*Marzo 2025 – Junio 2025*
+
+**Ayudante de Cátedra — Recolección de Datos y Análisis Primario de la Información**
+
+*UNAB · Universidad Nacional de Guillermo Brown*
+
+Ad honorem / Voluntariado académico
 
 <br>
 
