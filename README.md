@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=190&section=header&text=¡Hola,%20soy%20Sebastian!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Backend%20Developer%20%7C%20Ciclo%20viajero%20🚴&descAlignY=55&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:40916C&height=170&section=header&animation=fadeIn" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=52B788&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Sebastian+%F0%9F%91%8B;Data+Scientist+%7C+Backend+Developer;Cicloviajero+por+Argentina+%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=95D5B2&center=true&vCenter=true&width=750&lines=%22El+viento+en+contra+te+hace+m%C3%A1s+fuerte%22+%F0%9F%9A%B4;%22El+que+no+se+mueve%2C+se+oxida%22+%F0%9F%8C%BF;%22No+hay+camino+malo%2C+solo+piernas+cansadas%22+%F0%9F%97%BA%EF%B8%8F" alt="Frases SVG" />
+
+  <br/>
+  <p>🏔️ &nbsp; 🚴‍♂️ &nbsp; 🛣️ &nbsp; 📊 &nbsp; 🧠 &nbsp; 🗺️ &nbsp; 💻 &nbsp; 🌿</p>
 </div>
 
 <h3 align="left">👨‍💻 Acerca de mí</h3>
@@ -8,7 +17,7 @@
 
 🎓 Actualmente curso el tercer año de la carrera de **Ciencia de Datos** en la Universidad Nacional de Guillermo Brown (UNAB).
 
-🚴 Cuando no estoy frente a la compu, soy un ávido ciclo viajero, con recorridos de cientos de kilómetros a lo largo de Argentina 🇦🇷, y me estoy formando en mecánica de bicicletas 🔧.
+🚴‍♂️ Cuando no estoy frente a la compu, soy un ávido cicloviajero. Cientos de kilómetros recorridos a lo largo de Argentina 🇦🇷, con la bici cargada y sin saber bien qué hay al doblar la próxima curva. Me estoy formando también en mecánica de bicicletas 🔧, porque entender las rutas es tan importante como entender las herramientas.
 
 💡 Siempre abierto a nuevas oportunidades y colaboraciones en tecnología y datos. ¡Conectemos y construyamos algo juntos!
 
@@ -69,22 +78,26 @@
 <h3 align="left">🧰 Herramientas de trabajo</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="jupyter logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="Jupyter"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="38" alt="google colab logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="38" alt="Google Colab"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="38" alt="markdown logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="38" alt="RStudio"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/quarto/75AADB" height="38" alt="Quarto"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="38" alt="Markdown"/>
 </div>
 
 <br>
 
 <h3 align="left">📌 Proyectos</h3>
 
-Podés ver mis proyectos y análisis de datos en mis repositorios de GitHub 🐾 — desde notebooks de ciencia de datos hasta APIs hechas con FastAPI.
+Podés ver mis proyectos y análisis de datos en mis repositorios 🐾 — desde notebooks de ciencia de datos hasta APIs con FastAPI.
 
 <br>
 
@@ -106,5 +119,5 @@ Podés ver mis proyectos y análisis de datos en mis repositorios de GitHub 🐾
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916C,50:1B4332,100:0D1117&height=100&section=footer" />
 </div>
