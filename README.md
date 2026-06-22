@@ -34,6 +34,14 @@
   <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
 </div>
 
+**Desarrollo Web**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
 **Machine Learning & Deep Learning**
 
 <div align="left">
@@ -92,6 +100,21 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="38" alt="Markdown"/>
 </div>
+
+<br>
+
+<h3 align="left">🌐 Idiomas</h3>
+
+- 🇦🇷 **Español** — Nativo
+- 🇬🇧 **Inglés** — Básico
+
+<br>
+
+<h3 align="left">💼 Experiencia</h3>
+
+**Ayudante de Cátedra** — *Recolección de Datos y Análisis Primario de la Información*
+📍 UNAB · Universidad Nacional de Guillermo Brown
+🗓️ Marzo 2025 – Junio 2025 · Ad honorem / Voluntariado académico
 
 <br>
 
