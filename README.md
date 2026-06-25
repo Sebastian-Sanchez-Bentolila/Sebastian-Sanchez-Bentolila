@@ -1,39 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B4332,100:40916C&height=170&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1B4332,100:40916C&height=210&section=header&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=52B788&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Sebastian+%F0%9F%91%8B;Data+Scientist+%7C+Backend+Developer;Cicloviajero+por+Argentina+%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=52B788&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Sebastian+%F0%9F%91%8B;Data+Scientist+%7C+Backend+Developer;Cicloviajero+por+Argentina+%F0%9F%9A%B4%E2%80%8D%E2%99%82%EF%B8%8F;Autodidacta+%7C+100%25+curioso" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&duration=4500&pause=2500&color=95D5B2&center=true&vCenter=true&width=750&lines=%22El+viento+en+contra+te+hace+m%C3%A1s+fuerte%22+%F0%9F%9A%B4;%22El+que+no+se+mueve%2C+se+oxida%22+%F0%9F%8C%BF;%22No+hay+camino+malo%2C+solo+piernas+cansadas%22+%F0%9F%97%BA%EF%B8%8F" alt="Frases" />
 
   <br/>
+  <p>🏔️ &nbsp;•&nbsp; 🚴‍♂️ &nbsp;•&nbsp; 🛣️ &nbsp;•&nbsp; 📊 &nbsp;•&nbsp; 🧠 &nbsp;•&nbsp; 🗺️ &nbsp;•&nbsp; 💻 &nbsp;•&nbsp; 🌿</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=95D5B2&center=true&vCenter=true&width=750&lines=%22El+viento+en+contra+te+hace+m%C3%A1s+fuerte%22+%F0%9F%9A%B4;%22El+que+no+se+mueve%2C+se+oxida%22+%F0%9F%8C%BF;%22No+hay+camino+malo%2C+solo+piernas+cansadas%22+%F0%9F%97%BA%EF%B8%8F" alt="Frases SVG" />
-
-  <br/>
-  <p>🏔️ &nbsp; 🚴‍♂️ &nbsp; 🛣️ &nbsp; 📊 &nbsp; 🧠 &nbsp; 🗺️ &nbsp; 💻 &nbsp; 🌿</p>
+  <img src="https://komarev.com/ghpvc/?username=Sebastian-Sanchez-Bentolila&color=40916C&style=flat-square&label=visitas+al+perfil" alt="Profile views" />
 </div>
 
-<h3 align="left">👨‍💻 Acerca de mí</h3>
+---
 
-🌟 Apasionado por los datos y la programación. Desde los 14 años descubrí el mundo del código aprendiendo C en el colegio, y desde entonces no paré de explorar y crecer en este campo. Soy 100% autodidacta 📚, siempre en busca de nuevos retos y conocimientos.
+<h3 align="left">👨‍💻 Sobre mí</h3>
 
-🎓 Actualmente curso el tercer año de la carrera de **Ciencia de Datos** en la Universidad Nacional de Guillermo Brown (UNAB).
+La misma curiosidad que me lleva a pedalear cientos de kilómetros sin saber qué hay al doblar la próxima curva, me impulsa a explorar datos buscando patrones que otros no ven.
 
-🚴‍♂️ Cuando no estoy frente a la compu, soy un ávido cicloviajero. Cientos de kilómetros recorridos a lo largo de Argentina 🇦🇷, con la bici cargada y sin saber bien qué hay al doblar la próxima curva. Me estoy formando también en mecánica de bicicletas 🔧, porque entender las rutas es tan importante como entender las herramientas.
+Desde los 14 años descubrí el mundo del código aprendiendo C en el colegio, y desde entonces no paré. Soy 100% autodidacta, estudiante de Ciencia de Datos en la UNAB y creo que los mejores análisis no vienen de los datos solos, sino de quien sabe hacerles las preguntas correctas.
 
-💡 Siempre abierto a nuevas oportunidades y colaboraciones en tecnología y datos. ¡Conectemos y construyamos algo juntos!
+Cuando no estoy frente a la compu, estoy con la bici cargada recorriendo Argentina 🇦🇷. Y en los dos mundos aplica lo mismo: no importa el punto de llegada, importa lo que descubrís en el camino.
 
-<br>
+```
+📍  Llavallol, Buenos Aires, Argentina
+🎓  Lic. en Ciencia de Datos — UNAB  (22 / 30 materias)
+🔭  Buscando oportunidades en Data Science y ML
+🌱  Aprendiendo mecánica de bicicletas
+```
 
-<h3 align="left">🎓 Estudios</h3>
+---
+
+<h3 align="left">🎓 Formación</h3>
+
+<img src="https://img.shields.io/badge/UNAB-Lic._en_Ciencia_de_Datos-1B4332?style=for-the-badge&logoColor=white" alt="UNAB"/>
 
 **Licenciatura en Ciencia de Datos**
 
-*Universidad Nacional de Guillermo Brown (UNAB)*
+*Universidad Nacional de Guillermo Brown (UNAB)* &nbsp;·&nbsp; 2023 – 2026
 
-2023 – 2026 · En curso · 22 de 30 materias aprobadas
+22 de 30 materias aprobadas &nbsp;·&nbsp; En curso
 
-<img src="https://img.shields.io/badge/UNAB-Lic._Ciencia_de_Datos-1B4332?style=flat-square&logoColor=white" alt="UNAB"/>
+---
 
-<br>
+<h3 align="left">💼 Experiencia</h3>
+
+*Marzo 2025 – Junio 2025*
+
+**Ayudante de Cátedra — Recolección de Datos y Análisis Primario de la Información**
+
+*UNAB · Universidad Nacional de Guillermo Brown*
+
+Ad honorem / Voluntariado académico
+
+---
 
 <h3 align="left">🛠 Stack Tecnológico</h3>
 
@@ -46,6 +67,8 @@
   <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
 </div>
 
+<br/>
+
 **Desarrollo Web**
 
 <div align="left">
@@ -54,12 +77,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
+<br/>
+
 **Machine Learning & Deep Learning**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
 </div>
+
+<br/>
 
 **Backend & DevOps**
 
@@ -69,6 +96,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
+<br/>
+
 **Cloud**
 
 <div align="left">
@@ -77,12 +106,16 @@
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean"/>
 </div>
 
+<br/>
+
 **Business Intelligence & Analytics**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white" alt="Looker Studio"/>
 </div>
+
+<br/>
 
 **Ofimática & Diseño**
 
@@ -93,7 +126,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </div>
 
-<br>
+---
 
 <h3 align="left">🧰 Herramientas de trabajo</h3>
 
@@ -113,50 +146,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="38" alt="Markdown"/>
 </div>
 
-<br>
+---
 
 <h3 align="left">🌐 Idiomas</h3>
 
-- 🇦🇷 **Español** — Nativo
-- 🇬🇧 **Inglés** — Básico
+🇦🇷 &nbsp;**Español** — Nativo &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 &nbsp;**Inglés** — Básico
 
-<br>
-
-<h3 align="left">💼 Experiencia</h3>
-
-*Marzo 2025 – Junio 2025*
-
-**Ayudante de Cátedra — Recolección de Datos y Análisis Primario de la Información**
-
-*UNAB · Universidad Nacional de Guillermo Brown*
-
-Ad honorem / Voluntariado académico
-
-<br>
+---
 
 <h3 align="left">📌 Proyectos</h3>
 
-Podés ver mis proyectos y análisis de datos en mis repositorios 🐾 — desde notebooks de ciencia de datos hasta APIs con FastAPI.
+Explorá mis repositorios 🐾 — análisis de datos, notebooks, APIs con FastAPI y más.
 
-<br>
+---
 
 <h3 align="left">📬 Contacto</h3>
 
 <div align="center">
   <a href="https://linktr.ee/sebas_sanchez_bentolila" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="Linktree"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sebastian-sanchez-bentolila/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:sebastiansb3004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/sebas_sanchez_bentolila" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916C,50:1B4332,100:0D1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916C,50:1B4332,100:0D1117&height=120&section=footer&text=%22El+que+no+se+mueve%2C+se+oxida%22&fontSize=14&fontColor=95D5B2&fontAlignY=65&animation=fadeIn" />
 </div>
