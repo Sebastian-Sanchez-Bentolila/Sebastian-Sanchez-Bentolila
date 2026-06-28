@@ -163,21 +163,11 @@ Explorá mis repositorios 🐾 — análisis de datos, notebooks, APIs con FastA
 <h3 align="left">📬 Contacto</h3>
 
 <div align="center">
-  <a href="https://linktr.ee/sebas_sanchez_bentolila" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="Linktree"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sebastian-sanchez-bentolila/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sebastiansb3004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/sebas_sanchez_bentolila" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
-  </a>
+  <a href="https://linktr.ee/sebas_sanchez_bentolila"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sebastian-sanchez-bentolila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sebastiansb3004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sebas_sanchez_bentolila"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/Sebastian-Sanchez-Bentolila"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
